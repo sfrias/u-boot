@@ -5,7 +5,7 @@
  */
 #include <common.h>
 #include <command.h>
-#include <clk.h>
+#include <clk_client.h>
 
 int __weak soc_clk_dump(void)
 {
